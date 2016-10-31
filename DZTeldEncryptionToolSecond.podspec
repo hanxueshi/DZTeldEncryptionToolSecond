@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.homepage         = "https://github.com/hanxueshi/DZTeldEncryptionToolSecond"   
   s.license          = 'MIT'  
   s.author           = { "hanxueshi" => "745603532@qq.com" }  
-  s.source           = { :git => "https://github.com/hanxueshi/DZTeldEncryptionToolSecond.git”, :tag => s.version.to_s }   
+  s.source           = { :git => "https://github.com/hanxueshi/DZTeldEncryptionToolSecond.git", :tag => s.version.to_s }   
   s.requires_arc = true
   s.ios.deployment_target = '8.0'
 s.source_files = 'DZTeldEncryptionToolSecond/*.swift'
